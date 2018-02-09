@@ -2,4 +2,4 @@
 
 This repos contain k8s configuation and examples to work with kubernetes.
 
-I will be adding a short how very soon
+I will be adding a short How to very soon
