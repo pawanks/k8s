@@ -1,2 +1,5 @@
-# Kubernetes course
-This repository contains the course files for my Kubernetes course on Udemy: https://www.udemy.com/learn-devops-the-complete-kubernetes-course/?couponCode=KUBERNETES_GIT
+# Kubernetes notes and templates.
+
+This repos contain k8s configuation and examples to work with kubernetes.
+
+I will be adding a short how very soon
