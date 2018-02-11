@@ -1,13 +1,13 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: nodehelloworld.example.com
+  name: flask-helloworld.example.com
   labels:
     app: helloworld
 spec:
   containers:
   - name: k8s-demo
-    image: wardviaene/k8s-demo
+    image: pawan2510/k8s
     ports:
-    - name: nodejs-port
-      containerPort: 3000
+    - name: flask-port
+      containerPort: 5000
